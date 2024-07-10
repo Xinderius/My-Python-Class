@@ -36,4 +36,4 @@ async def rrr(ctx):
     await ctx.send(mensaje)
 
 
-bot.run("MTI2MDcyNzMwMDI3MDMyOTg1Ng.GTUr4E.MCuVmYEM6nvwh9uVUsTBK1ANkayDo7kgo8hAn8")
+bot.run("aca va el token")
